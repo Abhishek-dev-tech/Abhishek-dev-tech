@@ -15,4 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-dev-tech&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhishek-dev-tech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-dev-tech&show_icons=true&locale=en" alt="abhishek-dev-tech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-dev-tech&show_icons=true&theme=dark&locale=en" alt="abhishek-dev-tech" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-dev-tech&theme=dark" alt="abhishek-dev-tech" /></p>
