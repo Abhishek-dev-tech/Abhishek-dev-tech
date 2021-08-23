@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++ , Unity**
 
-- 💬 Ask me about **Game Programming**
-
 - 📫 How to reach me **abhishek29082003@gmail.com**
 
 - 💻 Some of my projects **https://assetstore.unity.com/publishers/51458**
