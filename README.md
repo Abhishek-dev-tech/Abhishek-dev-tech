@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **C++ , Unity**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **abhishek29082003@gmail.com**
 
