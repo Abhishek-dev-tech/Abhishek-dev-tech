@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **C++, SDL2.**
-
 - 📫 How to reach me **abhishek29082003@gmail.com**
 
 - 💻 My Portfolio **https://abhishek-dev-tech.github.io/**
