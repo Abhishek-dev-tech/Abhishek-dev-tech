@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A passionate Game developer</h3>
 
-- 🔭 I’m currently a **Student**
-
-- 📫 How to reach me **abhishek29082003@gmail.com**
-
 - 💻 My Portfolio **https://abhishek-dev-tech.github.io/**
 
 <h3 align="left">Connect with me:</h3>
